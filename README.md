@@ -2,7 +2,7 @@
 
 ## Download 
 ```bash
-git clone https://github.com/canmeepo/handlebars-boilerplate.git
+git clone https://github.com/canmeepo/react-landing.git
 ```
 ## 1. Setup
 ```bash
